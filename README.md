@@ -9,19 +9,13 @@
 
 欢迎来到我的Github页面！我是linliangtao，目前正在从事前端开发的工作！
 
-<!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
  #### 🔭 目前正在从事的工作:
 
--   :rocket: Finish my Master Degree
--   🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
-    -   [TFG (Degree's final thesis)](https://github.com/FernandoRoldan93/TFG)
-    -   [MII Spark](https://github.com/FernandoRoldan93/MII_Spark)
-    -   [IEEE-CIS Fraud Detection](https://github.com/FernandoRoldan93/MII_SIGE/tree/master/Laboratory_works/Practice_1)
-    -   [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)
-    -   And so on...
--   Taking online courses about Data Science and Machine Learning
--   Adding posts about Machine Learning/Big Data/Software development to my personal [webpage](https://roldanzafra.com).
+-   :rocket: 研发工程师（前端）
+-   参加数据科学及云开发学习相关课程
+-   整理个人网站及博客
 
 #### :muscle: 正在挑战自己的事情:
 
@@ -32,11 +26,11 @@
 
 #### :computer: 编程语言和工具: 
 
-<!--
+
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=linliangtao&show_icons=true&hide_border=true" />
-
+<!-- 
 <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code> -->
 <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> -->
 <!-- <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code> -->
@@ -47,6 +41,6 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> -->
 
-</p> -->
+</p>
