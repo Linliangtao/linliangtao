@@ -24,7 +24,7 @@
 -   坚持每月看完1本书
 -   备考中级软件设计师
 
-#### :computer: 编程语言和工具: 
+#### :computer: 掌握的编程语言: 
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=linliangtao&show_icons=true&hide_border=true" />
