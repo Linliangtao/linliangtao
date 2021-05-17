@@ -11,7 +11,7 @@
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 
-<!-- #### 🔭 Things I am currently working on:
+ #### 🔭 Things I am currently working on:
 
 -   :rocket: Finish my Master Degree
 -   🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
@@ -30,7 +30,7 @@
 -   Exercising 3 days a week
 -   Improving my CV with some education apart from university
 
-#### :computer: Programming languages and tools: -->
+#### :computer: Programming languages and tools: 
 
 <!--
 
