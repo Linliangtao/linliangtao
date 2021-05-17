@@ -11,7 +11,7 @@
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 
- #### 🔭 Things I am currently working on:
+ #### 🔭 目前正在从事的工作:
 
 -   :rocket: Finish my Master Degree
 -   🌱 Add an English documentation and restructure some projects I already did for my degree and Master.
@@ -23,14 +23,14 @@
 -   Taking online courses about Data Science and Machine Learning
 -   Adding posts about Machine Learning/Big Data/Software development to my personal [webpage](https://roldanzafra.com).
 
-#### :muscle: Things I am challenging myself with:
+#### :muscle: 正在挑战自己的事情:
 
--   Trying to be more exhaustive documenting my projects
--   Coding at least 4 hours a day
--   Exercising 3 days a week
--   Improving my CV with some education apart from university
+-   整理并详细记录我的项目和博客
+-   坚持每天至少编码4小时
+-   坚持每月看完1本书
+-   备考中级软件设计师
 
-#### :computer: Programming languages and tools: 
+#### :computer: 编程语言和工具: 
 
 <!--
 
