@@ -1,4 +1,4 @@
-### 你好！ 👋
+### 你好！  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 我是 linliangtao!
 
