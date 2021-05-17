@@ -9,7 +9,7 @@
 
 欢迎来到我的Github页面！我是linliangtao，目前正在从事前端开发的工作！
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />  -->
 
  #### 🔭 目前正在从事的工作:
 
@@ -29,7 +29,7 @@
 
 
 <p>
-<!-- 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=linliangtao&show_icons=true&hide_border=true" /> -->
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=linliangtao&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/broccolijs/broccolijs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
