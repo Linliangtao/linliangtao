@@ -35,8 +35,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
-</p>
-
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gulpjs/gulpjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
