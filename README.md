@@ -9,7 +9,7 @@
 
 欢迎来到我的Github页面！我是linliangtao，目前正在广州从事前端开发的工作！
 
-<img align="right" alt="img" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=543788085,3556052343&fm=26&gp=0.jpg" width="350" height="300" />
+<img align="right" alt="img" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=543788085,3556052343&fm=26&gp=0.jpg" width="350" height="260" />
 
  #### 🔭 目前正在从事的工作:
 
